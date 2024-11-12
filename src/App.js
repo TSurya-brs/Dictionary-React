@@ -1,10 +1,10 @@
 import "./App.css";
-import Foodapp from "./Foodapp";
+import Dictionary from "./Dictionary";
 
 function App() {
   return (
     <div className="App">
-      <Foodapp />
+      <Dictionary />
     </div>
   );
 }
